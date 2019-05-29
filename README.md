@@ -1,5 +1,6 @@
 # Mac-Os-X-Developers
-Mac Os X 开发环境:## 禁止 .DS_store生成：
+Mac Os X 开发环境:
+
 ## .DS_store
 
 ### 禁止 .DS_store生成：
